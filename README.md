@@ -10,9 +10,9 @@ Open to Principal / Staff IC roles: full-time, remote (US) or Indianapolis on-si
 
 ## What I've built
 
-- **BBMon**: an internal ASP.NET Core / Angular monitoring platform I started myself after spotting a gap nobody was tracking. It replaced a $200K+/yr commercial tool and scaled monitored URLs ~20x to 6,000+ checks every 5 minutes. Ran in production ~5 years.
-- **Access-request platform**: inherited and owned for ~7 years, used by every engineering team and a primary source of audit evidence for PCI and other compliance reviews. When it was retired I ran the executive-mandated 4-week cutover as the single technical point of contact, with zero downtime and no compliance gaps.
-- **Enterprise cloud governance**: a two-year effort across ~110 Azure subscriptions and ~60 AWS accounts. Tag policy, Azure Policy, Qlik dashboards over Resource Graph / KQL, and gap-analysis tooling that surfaced inconsistencies across Azure, AWS, and the ServiceNow CMDB.
+- **BBMon**: an internal ASP.NET Core / Angular URL and certificate monitoring platform I started myself after an earlier Python certificate monitor of mine surfaced failures the existing monitoring was silently missing. It replaced a $200K+/yr commercial tool and scaled monitored URLs ~20x to 6,000+ checks every 5 minutes. It ran in production for ~5 years.
+- **Access-request platform**: inherited and owned for ~7 years, used by every engineering team and the primary source of access-control evidence for PCI and other compliance audits. When it was retired I ran the executive-mandated 4-week cutover as the single technical point of contact, with zero downtime and no compliance gaps.
+- **Enterprise cloud governance**: a two-year effort across ~110 Azure subscriptions and ~60 AWS accounts that ended in an approved enterprise tagging policy. Azure Policy, Qlik dashboards over Resource Graph / KQL, and data reconciliation across Azure, AWS, and the ServiceNow CMDB whose findings led to improved CMDB data.
 
 ## Community
 
